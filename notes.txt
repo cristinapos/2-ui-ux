@@ -1,0 +1,12 @@
+Implementation details:
+- implement the layout using CSS selectors
+- you will be the one who sets the font-family and the spacing (margins, paddings, width, heights etc.)
+- for the BUSINESS PROJECT UI element CSS rotate can be used for implementation (https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/rotate)
+Colors:
+- header text: #283553
+- main gren: #617d81
+- main brown: #ab9683
+- text title: #cccccc
+- footer background color: #000807
+- footer text: #7f8382
+- BUSINESS PROJECT/BUSINESS PLAN text: #ffffff (white) + css opacity rule (https://developer.mozilla.org/en-US/docs/Web/CSS/opacity)
